@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="character_array">
+        <item>Rachel Green</item>
+        <item>Ross Geller</item>
+        <item>Monica Geller</item>
+        <item>Joey Tribbiani</item>
+        <item>Phoebe Buffay</item>
+        <item>Chandler Bing</item>
+        <item>Gloria Delgado-Pritchett</item>
+        <item>Manny Delgado</item>
+        <item>Jay Pritchett</item>
+        <item>Claire Dunphy</item>
+        <item>Phil Dunphy</item>
+        <item>Haley Dunphy</item>
+        <item>Ted Mosby</item>
+        <item>Robin Scherbatsky</item>
+        <item>Barney Stinson</item>
+        <item>Lily Aldrin</item>
+        <item>Marshall Ericsson</item>
+    </string-array>
+
+</resources>
